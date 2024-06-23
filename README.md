@@ -6,11 +6,9 @@ Mastering Sorting Algorithms and Binary Operations : A Web-based game learning s
 
 Bachelor of Science in Computer Science
 
-![GitHub Logo](https://github.com/github.png)
-
-Test account for login
-username : janedoe,johndoe
-password : 123
+# Test account for login
+# username : janedoe,johndoe
+# password : 123
 
 # Page Overview
 
