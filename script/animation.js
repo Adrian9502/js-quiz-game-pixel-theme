@@ -6,7 +6,7 @@ function animation() {
     container.classList.add("slide-out-top");
     // Redirect to sortingAlgo.html after animation completes
     setTimeout(function () {
-      window.location.href = "pages/sortingAlgo.php";
+      window.location.href = "pages/sortingAlgo.html";
     }, 500); // Animation duration
   });
 
@@ -15,7 +15,7 @@ function animation() {
     container.classList.add("slide-out-top");
     // Redirect to binaryAlgo.html after animation completes
     setTimeout(function () {
-      window.location.href = "pages/binaryAlgo.php";
+      window.location.href = "pages/binaryAlgo.html";
     }, 500); // Animation duration
   });
 }
